@@ -1,16 +1,14 @@
-### Hi there 👋
+##Zipdox
+Programmer and electronics enthusiast
 
-<!--
-**Zipdox/Zipdox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Links
+- [Website](https://zipdox.net)
+- [Twitter](https://twitter.com/zipdox)
 
-Here are some ideas to get you started:
+###Languages
+- JavaScript
+- Python
+- C
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###OS
+Debian GNU/Linux bullseye/sid x86_64
