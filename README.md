@@ -9,6 +9,7 @@ Programmer and electronics enthusiast
 - JavaScript
 - Python
 - C
+- HTML/CSS
 
 ### OS
 Debian GNU/Linux bullseye/sid x86_64
